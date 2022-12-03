@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Трухманов Дмитрий\source\repos\templates\templates\main.cpp(826,26): warning C4018: <: несоответствие типов со знаком и без знака
+  templates.vcxproj -> C:\Users\Трухманов Дмитрий\source\repos\templates\Debug\templates.exe
